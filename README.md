@@ -11,7 +11,7 @@ HTML &amp; CSS UI Components
 ## Screenshots
 
 <div style="display:flex">
-  <img src="https://github.com/se4astien/ui-design-daily/blob/master/screenshots/blog-cards.png" alt="" width="32%" />
-  <img src="https://github.com/se4astien/ui-design-daily/blob/master/screenshots/login.png" alt="" width="32%" />
-  <img src="https://github.com/se4astien/ui-design-daily/blob/master/screenshots/ads-manager.png" alt="" width="32%" />
+  <img src="https://github.com/se4astien/ui-design-daily/blob/master/screenshots/blog-cards.png" alt="" width="75%" />
+  <img src="https://github.com/se4astien/ui-design-daily/blob/master/screenshots/login.png" alt="" width="75%" />
+  <img src="https://github.com/se4astien/ui-design-daily/blob/master/screenshots/ads-manager.png" alt="" width="75%" />
 </div>
